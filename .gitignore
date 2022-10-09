@@ -1,0 +1,6 @@
+*/.pytest_cache
+__pycache__/
+.idea
+/hm1/task2/public_tests
+*/public_tests
+
